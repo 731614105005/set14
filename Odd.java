@@ -6,9 +6,9 @@ import java.io.*;
    public static void main(String args[])
    {
     Scanner sc=new Scanner(System.in);
-     int n=sc.nextInt();
+    
      int i;
-     for(i=0;i<n;i++)
+     for(i=5;i<15;i++)
      {
        if(i%2!=0)
     {
